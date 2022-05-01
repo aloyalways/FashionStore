@@ -1,0 +1,1 @@
+String getAllProductsUrl = "https://fakestoreapi.com/products";
