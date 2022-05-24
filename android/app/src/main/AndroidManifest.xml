@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.app.zupay_assignment">
+    package="com.app.fashion_store">
 
     <uses-permission android:name="android.permission.INTERNET" />
 

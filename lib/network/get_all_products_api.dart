@@ -1,8 +1,8 @@
 import 'dart:convert';
 
 import 'package:http/http.dart' as http;
-import 'package:zupay_assignment/constants/url.dart';
-import 'package:zupay_assignment/model/homescreen_item_model.dart';
+import 'package:fashion_store/constants/url.dart';
+import 'package:fashion_store/model/homescreen_item_model.dart';
 
 Future<HomeScreenModel> getAllProductsApi() async{
   final response = await http.get(
