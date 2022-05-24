@@ -1,14 +1,13 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:sizer/sizer.dart';
-import 'package:zupay_assignment/constants/colors.dart';
-import 'package:zupay_assignment/constants/dimens.dart';
-import 'package:zupay_assignment/constants/strings.dart';
-import 'package:zupay_assignment/model/cart_model.dart';
-import 'package:zupay_assignment/model/homescreen_item_model.dart';
-import 'package:zupay_assignment/network/get_all_products_api.dart';
-import 'package:zupay_assignment/screens/cart_screen.dart';
+import 'package:fashion_store/constants/colors.dart';
+import 'package:fashion_store/constants/dimens.dart';
+import 'package:fashion_store/constants/strings.dart';
+import 'package:fashion_store/model/cart_model.dart';
+import 'package:fashion_store/model/homescreen_item_model.dart';
+import 'package:fashion_store/network/get_all_products_api.dart';
+import 'package:fashion_store/screens/cart_screen.dart';
 import 'package:badges/badges.dart';
 
 class HomeScreen extends StatefulWidget {

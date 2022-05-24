@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
-import 'package:zupay_assignment/model/cartscreen_tem_model.dart';
-import 'package:zupay_assignment/model/homescreen_item_model.dart';
+import 'package:fashion_store/model/cartscreen_tem_model.dart';
+import 'package:fashion_store/model/homescreen_item_model.dart';
 
 class CartModel extends ChangeNotifier{
   List<CartScreenItemModel> cartItemList = [];
