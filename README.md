@@ -6,8 +6,8 @@ The fashion store is a simple e-commerce clothing application made in Flutter & 
 This project will help the early flutter developers to understand how to follow proper Flutter/Dart guidelines and Architecture. It will also help them understand the working of a State Management widget like Provider.
 
 ## ScreenShots
-![FashionStore Page 1](https://user-images.githubusercontent.com/65147714/170025202-05137558-3852-4371-9bda-6a58220179e9.png)
-![FashionStore Page 2](https://user-images.githubusercontent.com/65147714/170025193-62db2188-9b65-4b20-9517-a7590f415c2c.png)
+- ![HomeScreen](https://user-images.githubusercontent.com/65147714/170025202-05137558-3852-4371-9bda-6a58220179e9.png)
+- ![CartScreen](https://user-images.githubusercontent.com/65147714/170025193-62db2188-9b65-4b20-9517-a7590f415c2c.png)
 
 ## Getting Started
 
