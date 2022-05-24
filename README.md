@@ -1,6 +1,6 @@
-# zupay_assignment
+# Fashion Store
 
-A new Flutter project.
+FashionStore project.
 
 ## Getting Started
 
